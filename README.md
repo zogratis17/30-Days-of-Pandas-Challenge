@@ -24,7 +24,7 @@ To run the solutions locally:
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/zogratis17/30-days-pandas-leetcode.git](https://github.com/zogratis17/30-Days-of-Pandas-Challenge.git)
+   git clone https://github.com/zogratis17/30-Days-of-Pandas-Challenge.git
    cd 30-days-pandas-leetcode
     ````
 
